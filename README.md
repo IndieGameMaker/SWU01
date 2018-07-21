@@ -10,6 +10,9 @@
 
 [F22](https://github.com/IndieGameMaker/SWU02/blob/master/fighter.zip)
 
+![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_earth.png)
+
+![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_sun.png)
 
 ## 일자별 강의 소스
 
