@@ -12,6 +12,8 @@
 
 [Movies](https://drive.google.com/open?id=1iF_Sz3LPLxvfh6QdFANhFIP_I8eCJvvu)
 
+[GoogleVRForUnity](https://github.com/IndieGameMaker/SWU02/blob/master/VR리소스/GoogleVRForUnity_1.150.0.unitypackage)
+
 ![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_earth.png)
 
 ![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_sun.png)
